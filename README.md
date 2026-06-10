@@ -5,6 +5,8 @@
 > [!NOTE]
 > Este juego es un clon simple del clásico videojuego [Angry Birds](https://es.wikipedia.org/wiki/Angry_Birds_(videojuego)), y fue creado con la intención de aprender el lenguaje de programación **C#** a través del desarrollo de videojuegos con el motor gráfico **Unity**.
 
+<video src="images/gameplay.mp4" width="100%" controls autoplay loop muted></video>
+
 ## Descripción
 
 Desarrollado en **Unity 6**.

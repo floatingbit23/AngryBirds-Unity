@@ -5,6 +5,8 @@
 > [!NOTE]
 > This game is a simple clone of the classic videogame [Angry Birds](https://en.wikipedia.org/wiki/Angry_Birds_(video_game)), and was created with the purpose of learning the **C#** programming language through game development with the **Unity** game engine.
 
+<video src="images/gameplay.mp4" width="100%" controls autoplay loop muted></video>
+
 ## Description
 
 Built with **Unity 6**.
