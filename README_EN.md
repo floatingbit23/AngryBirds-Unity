@@ -2,8 +2,8 @@
 
 # 🐦 Angry Birds
 
->[!info]
->This game is a simple clone of the classic videogame [Angry Birds](https://en.wikipedia.org/wiki/Angry_Birds_(video_game)), and was created with the purpose of learning the **C#** programming language through game development with the **Unity** game engine.
+> [!NOTE]
+> This game is a simple clone of the classic videogame [Angry Birds](https://en.wikipedia.org/wiki/Angry_Birds_(video_game)), and was created with the purpose of learning the **C#** programming language through game development with the **Unity** game engine.
 
 ## Description
 
