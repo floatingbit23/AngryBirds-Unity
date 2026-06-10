@@ -1,0 +1,9 @@
+# Ignore Unity metadata and serialization files from GitHub language statistics
+*.meta linguist-detectable=false
+*.unity linguist-detectable=false
+*.prefab linguist-detectable=false
+*.asset linguist-detectable=false
+*.controller linguist-detectable=false
+*.mat linguist-detectable=false
+*.physicMaterial linguist-detectable=false
+*.physicsMaterial2D linguist-detectable=false
